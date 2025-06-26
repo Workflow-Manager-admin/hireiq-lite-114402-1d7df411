@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/hireiq-lite-114402-1d7df411/backend_workspace/backend"
+}

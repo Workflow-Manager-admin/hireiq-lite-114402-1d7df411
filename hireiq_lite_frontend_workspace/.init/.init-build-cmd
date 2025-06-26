@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/hireiq-lite-114402-1d7df411/hireiq_lite_frontend_workspace/hireiq_lite_frontend"
+}
